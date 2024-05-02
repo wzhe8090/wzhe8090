@@ -6,7 +6,7 @@ For the inspiration of the imaging technology, I chose Xiao Mi SU7 from GameMCU,
 
 Here are some high quality screenshots
 
-![image-20240502025716637](C:\Users\jiash\AppData\Roaming\Typora\typora-user-images\image-20240502025716637.png)
+![image-20240502025716637]()
 
 ![image-20240502025802399](C:\Users\jiash\AppData\Roaming\Typora\typora-user-images\image-20240502025802399.png)
 
