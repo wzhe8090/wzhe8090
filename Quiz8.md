@@ -8,7 +8,7 @@ Here are some high quality screenshots
 
 ![image-20240502025716637](https://github.com/wzhe8090/wzhe8090/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-05-02%20025713.png)
 
-![image-20240502025802399](C:\Users\jiash\AppData\Roaming\Typora\typora-user-images\image-20240502025802399.png)
+![image-20240502025802399]([C:\Users\jiash\AppData\Roaming\Typora\typora-user-images\image-20240502025802399.png](https://github.com/wzhe8090/wzhe8090/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-05-02%20025759.png))
 
 For coding and technical exploration, I would consider using libraries such as WebGL, Three.js to achieve the desired effects. With WebGl's GLSL shader program, it's easy to create a variety of rendering methods, including lighting, texture mapping and colour effects. It is also possible to create all kinds of interactions, create all kinds of 3d models through Three.js, and everything else to achieve the effect we want to simulate the environment.
 
